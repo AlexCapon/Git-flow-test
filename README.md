@@ -7,3 +7,5 @@ This rep was created to learn and practice git flow.
 3. Создать от ветки develop feature/-ветки и мержить их когда фичи будут закончены.
 4. Создать ветку release/1.0.0 от develop.
 5. Когда ветка release закончена - она мержится в main и develop, а затем удаляется.
+6. Для исправления ошибок, то от main создаётся ветка hotfix.
+7. После исправления ошибок, hotfix мерджится в main и в develop, после чего удаляется.
